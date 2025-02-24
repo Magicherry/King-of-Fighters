@@ -1,12 +1,20 @@
-## [一个伟大的Web应用课中期项目]
-#### 基本操作：
+## [A Great Web Application Midterm Project]  
 
-A玩家：wasd--移动， j--拳击 ， k--踢 ,  j+w--飞拳
+#### Basic Controls:  
 
-B玩家：上下左右(方向键)--移动， 1--拳击， 2--踢， 1+上--飞拳
+**Player A:**  
+- `WASD` – Move  
+- `J` – Punch  
+- `K` – Kick  
+- `J + W` – Flying Punch  
 
-#### 当怒气积满时，可解锁技能 ：
+**Player B:**  
+- Arrow Keys – Move  
+- `1` – Punch  
+- `2` – Kick  
+- `1 + Up Arrow` – Flying Punch  
 
-A玩家：A/D + space 
+#### When Rage Meter is Full, Special Skills Unlock:  
 
-B玩家：方向键 + enter
+**Player A:** `A/D + Space`  
+**Player B:** Arrow Keys + `Enter`  
