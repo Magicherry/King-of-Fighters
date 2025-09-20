@@ -3,9 +3,6 @@
 </h2>
 
 <p align="center">
-  A browser-based fighting game inspired by the classic King of Fighters series, built with vanilla JavaScript and HTML5 Canvas.
-</p>
-<p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ES6+-yellow?logo=javascript" alt="JavaScript Version">
   <img src="https://img.shields.io/badge/HTML5-Canvas-orange?logo=html5" alt="HTML5 Canvas">
   <img src="https://img.shields.io/badge/CSS3-Flexbox-blue?logo=css3" alt="CSS3">
@@ -13,6 +10,10 @@
   <img src="https://img.shields.io/badge/Animation-GIF-green?logo=giphy" alt="GIF Animation">
   <img src="https://img.shields.io/badge/Game%20Engine-Custom-red?logo=gamemaker" alt="Custom Game Engine">
   <img src="https://img.shields.io/badge/Physics-2D-purple?logo=unity" alt="2D Physics">
+</p>
+
+<p align="center">
+  A browser-based fighting game inspired by the classic King of Fighters series, built with vanilla JavaScript and HTML5 Canvas.
 </p>
 
 ## Overview
